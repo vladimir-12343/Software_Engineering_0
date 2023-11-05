@@ -17,7 +17,8 @@
 ### Найдите в интернете любую статью (объем статьи не менее 200 слов), скопируйте ее содержимое в файл и напишите программу, которая считает количество слов в текстовом файле и определит самое часто встречающееся слово. Результатом выполнения задачи будет: скриншот файла со статьей, листинг кода, и вывод в консоль, в котором будет указана вся необходимая информация
 
 ### Результат.
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex1.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex1.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex1.1.png)
 ## Вывод 
 1)Открывает файл, читает его содержимое и заменяет указанные разделители пробелами.
 2)Разбивает текст на слова и создает словарь word_count для подсчета количества вхождений каждого слова, приводя слова к нижнему регистру для регистронезависимого подсчета.
@@ -27,9 +28,10 @@
 
 ## Задание 2
 ### У вас появилась потребность в ведении книги расходов, посмотрев все существующие варианты вы пришли к выводу что вас ничего не устраивает и нужно все делать самому. Напишите программу для учета расходов. Программа должна позволять вводить информацию о расходах, сохранять ее в файл и выводить существующие данные в консоль. Ввод информации происходит через консоль. Результатом выполнения задачи будет: скриншот файла с учетом расходов, листинг кода, и вывод в консоль, с демонстрацией работоспособности программы
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex2.png)
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex2.1.png)
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex2.2.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex2.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex2.1.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex2.2.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex2.3.png)
 ## Выводы
 1)При запуске программа пытается загрузить сохраненные расходы из файла "expenses.txt" (если файл существует).
 2)Затем программа предлагает выбрать одно из следующих действий:
@@ -44,7 +46,8 @@
 ## Задание 3
 ### Имеется файл input.txt с текстом на латинице. Напишите программу, которая выводит следующую статистику по тексту: количество букв латинского алфавита; число слов; число строк. • Текст в файле: Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated.Ожидаемый результат: Input file contains: 108 letters 20 words 4 lines
 
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex3.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex3.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex3.1.png)
 
 ## Выводы
 1)Открывает файл "text.txt" для чтения и считывает его содержимое.
@@ -61,9 +64,7 @@
 • Предложение для проверки: Hello, world! Python IS the programming language of thE future. My EMAIL is.... PYTHON is awesome!!!! 
 • Ожидаемый результат: *****, ***ld! ****** ** *** programming language of *** future. My ***** **.... ****** ** awesome!!!!
 
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex4.png)
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex4.1.png)
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex4.2.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex4.png)
 ## Выводы
 1)Открывает файл "input.txt", читает из него запрещенные слова и сохраняет их в список forbidden_words.
 2)Задает предложение sentence для проверки, содержащее текст, в котором нужно заменить запрещенные слова.
@@ -78,9 +79,8 @@
 ## Задача: 
   Создать программу для анализа текстового файла с журнальными записями, определить наиболее активного автора, а также найти самую часто встречающуюся тему.
 
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex5.png)
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex5.1.png)
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_6/pic/ex5.2.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex5.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_7/pic/ex5.1.png)
 ## Выводы
 1)Открывает файл "journal.txt" для чтения с указанием кодировки 'utf-8'.
 2)Считывает строки из файла и разбивает каждую строку на две части по разделителю ": ". Первая часть считается автором, а вторая - темой записи.
