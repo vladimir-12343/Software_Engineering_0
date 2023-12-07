@@ -16,8 +16,8 @@
 ## Задание 1. Вовочка решил заняться спортивным программированием на python, но для этого он должен знать за какое время выполняется его программа. Он решил, что для этого ему идеально подойдет декоратор для функции, который будет выяснять за какое время выполняется та или иная функция. Помогите Вовочке в его начинаниях и напишите такой декоратор. Подсказка: необходимо использовать модуль time.
 
 ### Результат.
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex1.png)
 ![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex1.1.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex1.png)
 
 ## Вывод. 
 Создал декоратор timing_decorator, который измеряет время выполнения функции и выводит его после выполнения. Затем я применил этот декоратор к функции fibonacci.
@@ -45,7 +45,7 @@
 
 ### Результат.
 ![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex4.png)
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex.4.1.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex4.1.png)
 
 ## Вывод.создали класс ExecutionTimeDecorator, который является декоратором. Он измеряет время выполнения оборачиваемой функции и выводит его в консоль. Затем мы применили этот декоратор (@ExecutionTimeDecorator) к двум функциям (example_function_1 и example_function_2). Когда мы вызываем эти функции, мы видим, что время выполнения выводится в консоль после их выполнения.
 
@@ -55,7 +55,7 @@
 
 ### Результат.
 ![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex5.png)
-![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex6.1.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_10/pic/ex5.1.png)
 
 ## Вывод. Этот код включает две функции, каждая из которых использует собственное исключение CustomException.
 
