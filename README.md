@@ -17,6 +17,8 @@
 ![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_9/pic/ex1.png)
 ![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_9/pic/ex1.1.png)
 ![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_9/pic/ex1.2.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_9/pic/ex1.3.png)
+![Меню](https://github.com/vladimir-12343/Software_Engineering_0/blob/Тема_9/pic/ex1.4.png)
 
 ## Вывод. 
 Tomato: Класс представляет помидор с различными стадиями созревания (отсутствие, цветение, зеленый, красный). Он имеет методы grow(), который переводит помидор на следующую стадию созревания, и is_ripe(), который проверяет, созрел ли помидор.
